@@ -15,3 +15,10 @@ Correo: 31123695@uaz.edu.mx
 
 ## Actividad 03
 - p07-estadisticas
+
+## Tarea 01 - Elementos básicos
+- p08-distancia-puntos
+- p09-volumen-esfera
+- p10-calificaciones
+- p11-venta-articulos
+- p12-numeros-arreglo
