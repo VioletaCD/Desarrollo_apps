@@ -29,3 +29,6 @@ Correo: 31123695@uaz.edu.mx
 
 ## Actividad 05
 - p15-control-bancario-v2
+
+##  Tarea 02 – Programación Orientada a Objetos
+- 
