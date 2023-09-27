@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
 // Crear una instancia de la tienda
         Tienda miTienda = new Tienda("Mi Tienda", "Juan Pérez", "Calle Principal 123");
 

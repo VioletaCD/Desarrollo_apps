@@ -31,4 +31,10 @@ Correo: 31123695@uaz.edu.mx
 - p15-control-bancario-v2
 
 ##  Tarea 02 – Programación Orientada a Objetos
-- p17-control-ventas-v1
+- p16-control-ventas-v1
+
+##  repaso
+- p16-control-ventas-v2
+
+##  Examen Parcial 1
+- p17-primer-examen-parcial
