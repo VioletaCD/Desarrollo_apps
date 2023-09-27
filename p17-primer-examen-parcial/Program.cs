@@ -51,11 +51,15 @@
 
     static void ImprimirInforme(Academia academia)
     {
-        Console.WriteLine("----------------------------------------------------");
+        Console.WriteLine("-----------------------------------------------------------------");
+        Console.WriteLine("             >>>REPORTE DEL CLUB DEPORTIVO<<<                          ");
+        Console.WriteLine("-----------------------------------------------------------------");
         Console.WriteLine($"Academia: {academia.Nombre}");
         Console.WriteLine($"Propietario: {academia.Propietario}");
         Console.WriteLine($"Domicilio: {academia.Domicilio}");
         Console.WriteLine("----------------------------------------------------");
+        Console.WriteLine(">> Datos generales de las Categorias");
+        Console.WriteLine("");
 
         foreach (var categoria in academia.Categorias)
         {
