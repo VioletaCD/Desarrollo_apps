@@ -38,3 +38,8 @@ Correo: 31123695@uaz.edu.mx
 
 ##  Examen Parcial 1
 - p17-primer-examen-parcial
+
+## Actividad 06
+- p18-linq1
+- p19-linq2
+- p20-linq3
