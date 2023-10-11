@@ -47,3 +47,7 @@ Correo: 31123695@uaz.edu.mx
 ## Actividad 07
 - p21-linq4
 - p22-linq5
+
+## Actividad 08
+- p23-BlazorApp
+- p24-TodoList
