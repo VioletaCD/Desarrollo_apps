@@ -56,5 +56,8 @@ Correo: 31123695@uaz.edu.mx
 - p25-crud
 
 ## Tarea 03
-- Crud Jugador
+- p26Crud-Jugador
+
+## Segundo Examen Parcial – Blazor CRUD
+- p27-segundo-examen-parcial
 
