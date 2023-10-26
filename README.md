@@ -51,3 +51,7 @@ Correo: 31123695@uaz.edu.mx
 ## Actividad 08
 - p23-BlazorApp
 - p24-TodoList
+
+## Tarea 03
+- Crud Jugador
+
