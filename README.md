@@ -61,3 +61,6 @@ Correo: 31123695@uaz.edu.mx
 ## Segundo Examen Parcial – Blazor CRUD
 - p27-segundo-examen-parcial
 
+## Actividad 10
+p28-crud-universidad
+
