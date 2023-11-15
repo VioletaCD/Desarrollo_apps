@@ -62,7 +62,10 @@ Correo: 31123695@uaz.edu.mx
 - p27-segundo-examen-parcial
 
 ## Actividad 10
-p28-crud-universidad
+- p28-crud-universidad
 
 ## Actividad 11
-p28-crud-universidad-v2
+- p29-crud-universidad-v2
+
+## Tercer Examen Parcial
+- p30-tercer-examen-parcial.
